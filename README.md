@@ -9,4 +9,5 @@ I studied [ZDStickerView](https://github.com/zedoul/ZDStickerView) and it was an
 Licence
 ========
 Copyright (c) 2017 Md. Abu Sufian
+
 This code is distributed under the terms and conditions of the MIT license.
