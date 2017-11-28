@@ -7,7 +7,7 @@ How To Use It
 
 ### Installation
 
-Include ZDStickerView folder in your project.
+Include IAStickerView folder in your project.
 
 ### Credits
 
